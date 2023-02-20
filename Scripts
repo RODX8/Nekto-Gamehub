@@ -1,7 +1,14 @@
+[{
+  "title": "your dad",
+  "author": "your mom",
+  "game": "game name",
+  "imageUrl": "url",
+  "script": "print(\"helo world\")"
+},
 {
   "title": "your dad",
   "author": "your mom",
   "game": "game name",
   "imageUrl": "url",
   "script": "print(\"helo world\")"
-}
+}]
