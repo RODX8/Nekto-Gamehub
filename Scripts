@@ -1,8 +1,8 @@
 [{
-  "title": "Arsenal",
-  "author": "your mom",
-  "game": "game name",
-  "imageUrl": "url",
+  "title": "Owlhub",
+  "author": "Owlhub TM",
+  "game": "Arsenal",
+  "imageUrl": "https://media.discordapp.net/attachments/984166963225972788/1079286810917736458/arsenal.jpg?width=1453&height=817",
   "script": "print(\"helo world\")"
 },
 {
