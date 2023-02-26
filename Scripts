@@ -1,9 +1,9 @@
 [{
-  "title": "your dad",
-  "author": "your mom",
-  "game": "game name",
-  "imageUrl": "https://media.discordapp.net/attachments/984166963225972788/1077083607539142687/image.png?width=1453&height=817",
-  "script": "print(\"helo world\")"
+  "title": "OwlHub",
+  "author": "Unknown",
+  "game": "Arsenal",
+  "https://media.discordapp.net/attachments/984166963225972788/1079286810917736458/arsenal.jpg?width=1453&height=817",
+  "script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();"
 },
 {
   "title": "your dad",
