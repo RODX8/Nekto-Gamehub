@@ -3,7 +3,7 @@
   "author": "Unknown",
   "game": "Arsenal",
   "https://media.discordapp.net/attachments/984166963225972788/1079286810917736458/arsenal.jpg?width=1453&height=817",
-  "script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();"
+  "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt'))();"
 },
 {
   "title": "your dad",
